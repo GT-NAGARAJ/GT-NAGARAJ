@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm GT Nagaraj</h1>
 <h3 align="center">A passionate DevOps Engineer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gt-nagaraj&label=Profile%20views&color=0e75b6&style=flat" alt="gt-nagaraj" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gt-nagaraj" alt="gt-nagaraj" /></a> </p>
 
 - 🔭 I’m currently working on **Kubernetes**
 
