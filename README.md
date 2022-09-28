@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **AWS Cloud and Open Source Projects**
 
-- 💬 Ask me about **CI/CD, Docker,Ansible and Docker**
+- 💬 Ask me about **CI/CD,AWS Cloud,Ansible and Docker**
 
 - 📫 How to reach me **gtnagarajlpu@gmail.com**
 
