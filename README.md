@@ -3,7 +3,7 @@
 
 
 
-- 🔭 I’m currently working on **Kubernetes**
+- 🔭 I’m currently working on **DevOps Methodology**
 
 - 🌱 I’m currently learning **Kubernetes**
 
